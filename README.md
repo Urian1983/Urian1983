@@ -41,10 +41,11 @@ Aporto además experiencia previa en arquitectura de hardware, redacción técni
 
 ## 🚀 Proyectos destacados
 
-### [TodoExpress](https://github.com/Urian1983/todoexpress)
-API REST de gestión de tareas con sistema de auditoría integrado.  
+### [TodoExpressReactive](https://github.com/Urian1983/ToDoExpressReactive)
+API REST de gestión de tareas con sistema de auditoría integrado.
 Disponible en dos versiones paralelas:
-- [`main`](https://github.com/Urian1983/todoexpress/tree/main) — Spring WebFlux + R2DBC
+- [`main`](https://github.com/Urian1983/ToDoExpressReactive/main) — Spring WebFlux + R2DBC
+- [`main`](https://github.com/Urian1983/ToDoExpress/main) - Spring Web + MySQL
 
 ![Java](https://img.shields.io/badge/Java-21-orange?style=flat-square&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5-brightgreen?style=flat-square&logo=springboot)
