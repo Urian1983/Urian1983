@@ -6,10 +6,10 @@
  
 Desarrollador Backend especializado en el ecosistema **Java** y **Spring Boot**, formado con alta intensidad en IT Academy (Barcelona Activa, 405h). 
 
-Mi enfoque se centra en el diseño de APIs REST robustas, escalables y altamente testeadas. Domino tanto la **arquitectura MVC tradicional** como el paradigma de **programación reactiva (soluciones asíncronas no bloqueantes)**. Además, mi sólida base en arquitectura de hardware y sistemas me aporta una visión profunda sobre la optimización del código y la eficiencia en infraestructura.
+Mi enfoque se centra en el diseño de APIs REST robustas, escalables y altamente testeadas. Domino tanto la **arquitectura MVC tradicional** como el paradigma de **programación reactiva (soluciones asíncronas no bloqueantes)**
 
 * 💼 **Disponibilidad:** Inmediata | Abierto a posiciones en Remoto, Híbrido o Presencial en Barcelona.
-* 🌐 **Idiomas:** Catalán y Castellano (Nativos) · Inglés (B1-B2, documentación técnica).
+* 🌐 **Idiomas:** Catalán y Castellano (Nativos) · Inglés (C1, documentación técnica).
 
 ---
  
