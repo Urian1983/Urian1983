@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hola, soy Josep Julià
 
 ### Backend Developer especializado en Java y Spring Boot
