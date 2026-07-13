@@ -1,64 +1,128 @@
-# Hola, soy Josep 👋
- 
-**Backend Developer | Java & Spring Boot Expert | Barcelona**
- 
----
- 
-Desarrollador Backend especializado en el ecosistema **Java** y **Spring Boot**, formado con alta intensidad en IT Academy (Barcelona Activa, 405h). 
+```markdown
+# 👋 Hola, soy Josep Julià
 
-Mi enfoque se centra en el diseño de APIs REST robustas, escalables y altamente testeadas. Domino tanto la **arquitectura MVC tradicional** como el paradigma de **programación reactiva (soluciones asíncronas no bloqueantes)**
+### Backend Developer especializado en Java y Spring Boot
 
-* 💼 **Disponibilidad:** Inmediata | Abierto a posiciones en Remoto, Híbrido o Presencial en Barcelona.
-* 🌐 **Idiomas:** Catalán y Castellano (Nativos) · Inglés (C1, documentación técnica).
+Soy desarrollador backend especializado en el ecosistema **Java** y **Spring Boot**, con especial interés en el diseño de **APIs REST**, aplicaciones escalables y arquitecturas modernas.
+
+Disfruto explorando diferentes enfoques para resolver un mismo problema, desde aplicaciones tradicionales basadas en **Spring MVC** hasta soluciones reactivas con **Spring WebFlux**, priorizando un código limpio, mantenible y bien documentado.
 
 ---
- 
-## 🛠️ Tecnologías y Herramientas
- 
-### Ecosistema Java / Backend
+
+## 🚀 Stack Tecnológico
+
+### Backend
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat)
+![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat&logo=spring&logoColor=white)
 
-### Persistencia y Datos
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white)
-![R2DBC](https://img.shields.io/badge/R2DBC-6DB33F?style=flat&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&omegaColor=white)
+### Persistencia
+
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat)
+![R2DBC](https://img.shields.io/badge/R2DBC-6DB33F?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### Calidad de Software & DevOps
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-25A162?style=flat&logo=junit5&logoColor=white)
+### Documentación
+
+![OpenAPI](https://img.shields.io/badge/OpenAPI%20%2F%20Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+
+### Herramientas
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## 🚀 Proyectos Destacados
+## ⭐ Proyectos Destacados
 
-### ⚡ [ToDoExpressReactive](https://github.com/Urian1983/ToDoExpressReactive)
-API REST diseñada como laboratorio técnico para contrastar la eficiencia de los modelos de concurrencia bloqueante y no bloqueante, incluyendo un sistema de auditoría automatizado.
-* **Paradigma Reactivo (`main`):** Implementación asíncrona utilizando **Spring WebFlux** y persistencia reactiva con **R2DBC**.
-* **Paradigma Bloqueante:** Versión paralela construida bajo arquitectura **Spring Web MVC** tradicional y **MySQL** para evaluar diferencias de rendimiento bajo estrés.
-* **Calidad:** Cobertura de tests unitarios y de integración aplicando principios de Clean Code.
+### 🚀 ReactiveToDoExpress
 
-### 🍽️ [Bishul Backend](https://github.com/Urian1983/bishulR)
-Sistema integral para la gestión operativa y procesamiento de pedidos en tiempo real para entornos de restauración.
-* **Arquitectura y Seguridad:** Robustecido con **Spring Security** para control de acceso basado en roles y protección de endpoints críticos.
-* **Stack:** Java, Spring Boot, MySQL y frontend integrado en React.
+Aplicación de gestión de tareas desarrollada con **Spring Boot**, **Spring WebFlux** y persistencia reactiva mediante **R2DBC**.
+
+Este proyecto explora el desarrollo de aplicaciones completamente reactivas dentro del ecosistema Spring, ofreciendo una API REST documentada y una interfaz web para interactuar con la aplicación.
+
+**Tecnologías utilizadas**
+
+- Java
+- Spring Boot
+- Spring WebFlux
+- R2DBC
+- MySQL
+- OpenAPI / Swagger
+- Thymeleaf
+
+🔗 **Repositorio**
+
+<https://github.com/Urian1983/ReactiveToDoExpress>
 
 ---
 
-## 📊 GitHub Stats
- 
-![Josep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Urian1983&show_icons=true&theme=default&hide_border=true)
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Urian1983&layout=compact&hide_border=true)
- 
+### 📋 ToDoExpress
+
+Implementación equivalente utilizando el modelo tradicional basado en **Spring MVC** y **Spring Data JPA**.
+
+Permite comparar el enfoque bloqueante clásico de Spring con la versión reactiva del mismo dominio funcional.
+
+**Tecnologías utilizadas**
+
+- Java
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- MySQL
+- OpenAPI / Swagger
+- Thymeleaf
+
+🔗 **Repositorio**
+
+<https://github.com/Urian1983/ToDoExpress>
+
 ---
- 
-## 📬 Contacto
- 
+
+### 🍽️ Bishul Backend
+
+Backend desarrollado para la gestión de pedidos y operaciones en entornos de restauración.
+
+Incluye autenticación, autorización mediante roles y una API REST para la gestión de usuarios y pedidos.
+
+**Tecnologías utilizadas**
+
+- Java
+- Spring Boot
+- Spring Security
+- MySQL
+
+🔗 **Repositorio**
+
+<https://github.com/Urian1983/bishulR>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Urian1983&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Urian1983&layout=compact&hide_border=true)
+
+---
+
+## 🌱 Actualmente
+
+- Profundizando en arquitectura backend con Spring Boot.
+- Ampliando conocimientos sobre programación reactiva con Spring WebFlux.
+- Mejorando el diseño y documentación de APIs REST mediante OpenAPI.
+- Preparando la incorporación de una estrategia sólida de testing para futuros proyectos.
+
+---
+
+## 📫 Contacto
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/josep-juli%C3%A0-rocablanco)
+
 [![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:urian1983@proton.me)
+```
